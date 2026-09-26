@@ -1,0 +1,6 @@
+{
+  "name": "Islamic Habibi - Service Charging API & Merchant Portal",
+  "description": "Official Islamic Habibi service charging platform and API with merchant billing receiving directly to +256744042286 across all Islamic guidance, Nikah, business advisory, and educational packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
